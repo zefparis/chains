@@ -1,0 +1,25 @@
+{
+  "name": "CGLT Chain",
+  "chain": "CGLT",
+  "icon": "cglt",
+  "rpc": [
+    "http://104.248.166.144:8545"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "CGLT",
+    "symbol": "CGLT",
+    "decimals": 18
+  },
+  "infoURL": "https://github.com/zefparis/cglt-chain",
+  "shortName": "cglt",
+  "chainId": 242626,
+  "networkId": 242626,
+  "explorers": [
+    {
+      "name": "CGLT Explorer",
+      "url": "http://104.248.166.144:4000",
+      "standard": "EIP3091"
+    }
+  ]
+}
