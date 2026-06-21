@@ -1,9 +1,8 @@
 {
   "name": "CGLT Chain",
   "chain": "CGLT",
-  "icon": "cglt",
   "rpc": [
-    "http://104.248.166.144:8545"
+    "https://rpc.skyplays.tech"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -18,7 +17,7 @@
   "explorers": [
     {
       "name": "CGLT Explorer",
-      "url": "http://104.248.166.144:4000",
+      "url": "https://explorer.skyplays.tech",
       "standard": "EIP3091"
     }
   ]
